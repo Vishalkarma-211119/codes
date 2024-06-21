@@ -1,4 +1,4 @@
-GIT&GitHub
+GIT & GitHub
 linux
 docker
 jenkins
@@ -7,3 +7,7 @@ ansible
 terraform
 prometheus 
 grafana
+chef
+selenium
+nginx
+apache
