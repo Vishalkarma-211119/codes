@@ -1,0 +1,9 @@
+GIT&GitHub
+linux
+docker
+jenkins
+kubernettes
+ansible 
+terraform
+prometheus 
+grafana
